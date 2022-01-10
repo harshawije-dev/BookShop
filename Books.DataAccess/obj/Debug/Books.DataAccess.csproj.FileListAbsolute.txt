@@ -1,0 +1,5 @@
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.DataAccess.dll
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.DataAccess.pdb
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.dll
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.pdb

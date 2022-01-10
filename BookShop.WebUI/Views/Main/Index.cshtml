@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Add New Book";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-5">
+            <div class="card-wrapper">
+                <div class="card card-body">
+                    <div class="card-header">
+                        <h4>@ViewBag.Title</h4>
+                    </div>
+                    <form>
+                        <div class="mb-3">
+                            <label class="form-label" for="bookName">Name of Book</label>
+                            <input type="text" class="form-control" id="bookName" name="bookName" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="ISBNnum">ISBN Number</label>
+                            <input type="number" class="form-control" id="ISBNnum" name="ISBNnum" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="author">Author</label>
+                            <input type="text" class="form-control" id="author" name="author" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="author">Price</label>
+                            <input type="text" class="form-control" id="price" name="price" />
+                        </div>
+                        <button type="button" class="btn btn-primary" onclick="BookStore.dataSubmit()">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

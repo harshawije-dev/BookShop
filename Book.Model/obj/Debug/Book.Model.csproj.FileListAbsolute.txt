@@ -1,0 +1,12 @@
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\Book.Model.dll.config
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\Book.Model.dll
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\Book.Model.pdb
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\EntityFramework.dll
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\EntityFramework.xml
+D:\.Net Projects\Web Projects\BookShop\Book.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\.Net Projects\Web Projects\BookShop\Book.Model\obj\Debug\Book.Model.csproj.AssemblyReference.cache
+D:\.Net Projects\Web Projects\BookShop\Book.Model\obj\Debug\Book.Model.csproj.CoreCompileInputs.cache
+D:\.Net Projects\Web Projects\BookShop\Book.Model\obj\Debug\Book.Model.csproj.CopyComplete
+D:\.Net Projects\Web Projects\BookShop\Book.Model\obj\Debug\Book.Model.dll
+D:\.Net Projects\Web Projects\BookShop\Book.Model\obj\Debug\Book.Model.pdb

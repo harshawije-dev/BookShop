@@ -1,0 +1,14 @@
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Books.BusinessLayer.dll
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Books.BusinessLayer.pdb
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Books.Model.dll
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Books.Model.pdb
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Books.Model.dll.config
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\obj\Debug\Books.BusinessLayer.csproj.AssemblyReference.cache
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\obj\Debug\Books.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\obj\Debug\Books.BusinessLayer.csproj.CopyComplete
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\obj\Debug\Books.BusinessLayer.dll
+D:\.Net Projects\Web Projects\BookShop\Books.BusinessLayer\obj\Debug\Books.BusinessLayer.pdb
