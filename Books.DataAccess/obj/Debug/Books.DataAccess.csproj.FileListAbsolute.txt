@@ -1,5 +1,15 @@
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.DataAccess.dll.config
 D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.DataAccess.dll
 D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.DataAccess.pdb
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.Model.dll
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\EntityFramework.dll
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.Model.pdb
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\Books.Model.dll.config
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\EntityFramework.xml
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.AssemblyReference.cache
 D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.csproj.CopyComplete
 D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.dll
 D:\.Net Projects\Web Projects\BookShop\Books.DataAccess\obj\Debug\Books.DataAccess.pdb

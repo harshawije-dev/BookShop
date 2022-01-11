@@ -54,6 +54,8 @@ D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Antlr3.Runtime.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.BusinessLayer.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.DataAccess.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.Model.dll
+D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\EntityFramework.dll
+D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\EntityFramework.SqlServer.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Microsoft.Web.Infrastructure.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Newtonsoft.Json.dll
@@ -65,11 +67,14 @@ D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.WebPages.De
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.WebPages.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.WebPages.Razor.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\WebGrease.dll
-D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\EntityFramework.dll
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.BusinessLayer.pdb
+D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.BusinessLayer.dll.config
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.DataAccess.pdb
+D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.DataAccess.dll.config
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.Model.pdb
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Books.Model.dll.config
+D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\EntityFramework.xml
+D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\EntityFramework.SqlServer.xml
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Newtonsoft.Json.xml
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.Helpers.xml
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.Mvc.xml
@@ -80,7 +85,6 @@ D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.WebPages.De
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\System.Web.WebPages.Razor.xml
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Antlr3.Runtime.pdb
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\bin\EntityFramework.xml
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\obj\Debug\BookShop.WebUI.csproj.AssemblyReference.cache
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\obj\Debug\BookShop.WebUI.csproj.CoreCompileInputs.cache
 D:\.Net Projects\Web Projects\BookShop\BookShop.WebUI\obj\Debug\BookShop.WebUI.csproj.CopyComplete

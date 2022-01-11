@@ -1,4 +1,5 @@
 ﻿using Books.BusinessLayer.Common;
+using Books.DataAccess;
 using Books.Model;
 using Newtonsoft.Json.Linq;
 using System;
@@ -25,8 +26,22 @@ namespace Books.BusinessLayer
         
         private static string BookAuthentication(int isbnNumber)
         {
+            string result = "Default...";
 
-            return "Success";
+            using (BooksDataAccess booksDataAccess = new BooksDataAccess())
+            {
+                var getIdintityNumber = booksDataAccess.SelectBooks();
+                if (getIdintityNumber.Count != 0)
+                {
+                    result = "ISBN Number already Exsits";
+                }
+                else
+                {
+                    result = "No record found";
+                }
+            }
+
+            return result;
         }
     }
 }

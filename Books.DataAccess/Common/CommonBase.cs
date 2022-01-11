@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.BusinessLayer.Common
+namespace Books.DataAccess.Common
 {
     public class CommonBase : IDisposable
     {
